@@ -1,0 +1,3 @@
+[submodule "submoduer"]
+	path = submoduer
+	url = git@github.com:connectednode/submoduer.git
