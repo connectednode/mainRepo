@@ -1,0 +1,2 @@
+# mainRepo
+gitsubmoduel test
